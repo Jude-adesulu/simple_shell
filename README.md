@@ -31,4 +31,4 @@ $
 ```
 
 # Authors
-[Jude Adesulu](https://github.com/jude-adesulu) & [Patrick Akuagwu](https://github.com/)
+[Jude Adesulu](https://github.com/jude-adesulu) & [Patrick Akuagwu](https://github.com/patrick-akuagwu)
